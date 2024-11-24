@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clock Alarm</string>
+    <string name="channel_description">Notifications for alarms</string>
+    <string name="delete_alarm_title">Delete Alarm</string>
+    <string name="delete_alarm_message">Are you sure you want to delete this alarm?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_required_title">Permissions Required</string>
+    <string name="permission_required_message">This app requires certain permissions to function properly.</string>
+</resources>

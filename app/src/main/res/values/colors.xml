@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAlarmBackground">#FFEB3B</color>
+    <color name="colorText">#212121</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSecondaryButton">#4CAF50</color>
+    <color name="background">#F5F5F5</color>
+    <color name="accent">#FF4081</color>
+    <color name="text_primary">#212121</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="switchThumb">#4CAF50</color>
+    <color name="deleteButtonColor">#FF0000</color>
+</resources>
